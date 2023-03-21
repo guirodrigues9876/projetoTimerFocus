@@ -26,7 +26,9 @@
 - Figma
 
 ## 💻 Project
+<p align="center">
 ![Video_230321130927](https://user-images.githubusercontent.com/25981766/226672182-dc27b1fa-24c0-4a01-89af-31edebc8a80d.gif)
+<p>
 
 ## 📝 License
 <p align="center">

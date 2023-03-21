@@ -1,6 +1,10 @@
 # <h1 align="center">Timer Focus</h1>
 
-<p align="center">A simple stopwatch for studies. Project developed in the RocketSeat Explorer course.</p>
+<p align="center">A simple stopwatch for studies. The Factory Method was used as Design Pattern for better readability and code organization. <br>
+ Stage
+</p>
+
+
 
 <p align="center">
   <a href="#-Features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

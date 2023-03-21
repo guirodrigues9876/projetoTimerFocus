@@ -2,13 +2,13 @@
 
 <p align="center">Um cronômetro simples e prático para estudos. Projeto desenvolvido no curso Explorer da RocketSeat.</p>
 
-![timer](https://user-images.githubusercontent.com/25981766/226643883-2e668db6-d859-47e8-b103-7982df04c498.png)
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
+
+![timer](https://user-images.githubusercontent.com/25981766/226643883-2e668db6-d859-47e8-b103-7982df04c498.png)
 
 ## ✔ features
 

@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="timer project" src="./assets/cover.jpg" width="100%">
+  <img alt="timer project" src="./assets/cover.png" width="100%">
 </p>
 
 ## ✔ Features

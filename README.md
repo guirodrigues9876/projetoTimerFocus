@@ -1,12 +1,14 @@
 # <h1 align="center">Timer Focus</h1>
 
-<p align="center">A simple stopwatch for studies. The Factory Method was used as Design Pattern for better readability and code organization. </br>
+<p align="center">A simple stopwatch for studies. </br>
+The Factory Method was used as Design Pattern for better readability and code organization. </br>
  Stage 03 - RocketSeat Explorer.
 </p>
 
 
 
 <p align="center">
+ <a href="#-Worked-concepts">Worked Concepts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -16,6 +18,16 @@
 <p align="center">
   <img alt="timer project" src="./cover.png" width="100%">
 </p>
+
+## Worked Concepts
+-Callback functions
+-Recursion
+-Clean Code
+-ES6 modules
+-Factory Method
+-Dependency injection
+-Refactoring
+
 
 ## ✔ Features
 

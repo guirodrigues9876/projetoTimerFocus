@@ -2,7 +2,7 @@
 
 Um cronômetro para estudos, simples e prático com botão para música de fundo. Projeto desenvolvido no curso Explorer da RocketSeat.
 
-Funcionalidades
+🚀Funcionalidades
 
 - Play/pause no crômetro
 - Stop button
@@ -22,3 +22,6 @@ tecnologias
 ![Logo do app FocusTimer: Escrita na cor branca Focus timer e logo abaixo a imagem de um cronômetro também na cor branca](https://user-images.githubusercontent.com/25981766/226639922-69665904-0906-42ef-b833-4846655215b2.png)
 
 ![timer](https://user-images.githubusercontent.com/25981766/226643883-2e668db6-d859-47e8-b103-7982df04c498.png)
+
+
+![Video_230321130927](https://user-images.githubusercontent.com/25981766/226672182-dc27b1fa-24c0-4a01-89af-31edebc8a80d.gif)

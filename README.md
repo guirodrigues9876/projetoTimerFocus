@@ -9,10 +9,6 @@
   <a href="#memo-License">License</a>
 </p>
 
-<p align="center">
-![timer-3](https://user-images.githubusercontent.com/25981766/226681938-1d8a89d9-2059-4cd0-92f7-9664df459fea.png)
-</p>
-
 ![timer-3](https://user-images.githubusercontent.com/25981766/226681938-1d8a89d9-2059-4cd0-92f7-9664df459fea.png)
 
 ## ✔ Features
@@ -30,9 +26,8 @@
 - Figma
 
 ## 💻 Project
-<p align="center">
+
 ![Video_230321130927](https://user-images.githubusercontent.com/25981766/226672182-dc27b1fa-24c0-4a01-89af-31edebc8a80d.gif)
-<p>
 
 ## 📝 License
 <p align="center">

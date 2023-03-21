@@ -8,6 +8,7 @@
   <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-License">License</a>
 </p>
+![timer-3](https://user-images.githubusercontent.com/25981766/226681938-1d8a89d9-2059-4cd0-92f7-9664df459fea.png)
 
 ![timer](https://user-images.githubusercontent.com/25981766/226643883-2e668db6-d859-47e8-b103-7982df04c498.png)
 

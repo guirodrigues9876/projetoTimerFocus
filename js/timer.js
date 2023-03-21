@@ -35,12 +35,12 @@ export default function Timer ( {
             if(isFinished){   
                 resetControls()
                 updateDisplay()
-                sounds().timeEnd
+                sounds().timeEnd()
                 return
             }
     
             if( seconds <= 0) {
-                seconds = 60
+                seconds = 2
                 --minutes
             }
     

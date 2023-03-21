@@ -1,3 +1,6 @@
+import sounds from "./sounds.js"
+
+
 // Factory - É basicamente uma função que retorna um objeto
 export default function Timer ( {
     minutesDisplay, 
@@ -32,6 +35,7 @@ export default function Timer ( {
             if(isFinished){   
                 resetControls()
                 updateDisplay()
+                sounds().timeEnd
                 return
             }
     

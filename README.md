@@ -13,6 +13,8 @@
 ![timer-3](https://user-images.githubusercontent.com/25981766/226681938-1d8a89d9-2059-4cd0-92f7-9664df459fea.png)
 </p>
 
+![timer-3](https://user-images.githubusercontent.com/25981766/226681938-1d8a89d9-2059-4cd0-92f7-9664df459fea.png)
+
 ## ✔ Features
 
 - Play/pause button

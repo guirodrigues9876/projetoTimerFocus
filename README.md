@@ -19,14 +19,15 @@ The Factory Method was used as Design Pattern for better readability and code or
   <img alt="timer project" src="./cover.png" width="100%">
 </p>
 
-## Worked Concepts
--Callback functions
--Recursion
--Clean Code
--ES6 modules
--Factory Method
--Dependency injection
--Refactoring
+## 📝 Worked Concepts
+
+- Callback functions
+- Recursion
+- Clean Code
+- ES6 modules
+- Factory Method
+- Dependency injection
+- Refactoring
 
 
 ## ✔ Features

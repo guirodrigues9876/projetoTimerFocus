@@ -1,7 +1,6 @@
 # <h1 align="center">Timer Focus</h1>
 
-<p align="center">A simple stopwatch for studies. </br>
- Stage 03 - RocketSeat Explorer.
+<p align="center">A simple stopwatch for studies | Stage 03 - RocketSeat Explorer.
 </p>
 
 

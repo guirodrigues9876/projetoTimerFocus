@@ -9,7 +9,9 @@
   <a href="#memo-License">License</a>
 </p>
 
-![timer-3](https://user-images.githubusercontent.com/25981766/226681938-1d8a89d9-2059-4cd0-92f7-9664df459fea.png)
+<p align="center">
+  <img alt="timer project" src="./assets/cover.jpg" width="100%">
+</p>
 
 ## ✔ Features
 
@@ -27,7 +29,9 @@
 
 ## 💻 Project
 
-![Video_230321130927](https://user-images.githubusercontent.com/25981766/226672182-dc27b1fa-24c0-4a01-89af-31edebc8a80d.gif)
+<p align="center">
+  <img src="demo.gif" alt="animated" />
+</p>
 
 ## 📝 License
 <p align="center">
